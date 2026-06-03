@@ -114,7 +114,7 @@
           }
         },
 {
-  "title": "BrandConcierge",
+  "title": "BrandConcierge", 
   "id": "brandconcierge",
   "plugins": {
     "xwalk": {
